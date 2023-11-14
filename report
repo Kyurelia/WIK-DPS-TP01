@@ -1,0 +1,12 @@
+
+  Target             │  local://wk-td02:wk-td02  │    6C    33H    51M   232L     4?   
+    digest           │  2d0274dfe8bb             │                                     
+  Base image         │  node:14                  │    6C    33H    51M   232L     4?   
+  Updated base image │  node:21-slim             │    1C     0H     0M    17L          
+                     │                           │    -5    -33    -51   -215     -4   
+
+What's Next?
+  View vulnerabilities → docker scout cves local://wk-td02:wk-td02
+  View base image update recommendations → docker scout recommendations local://wk-td02:wk-td02
+  Include policy results in your quickview by supplying an organization → docker scout quickview local://wk-td02:wk-td02 --org <organization>
+
